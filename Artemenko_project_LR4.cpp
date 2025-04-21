@@ -29,7 +29,7 @@ void task3(float num1, float num2)
 
 void task4(float num1,float num2)
 {
-    cout<<"Разность равна "<<num1 - num2<<endl;
+    cout<<"Разность равна "<<num1 - num2 << endl;
 }
 
 int main()
