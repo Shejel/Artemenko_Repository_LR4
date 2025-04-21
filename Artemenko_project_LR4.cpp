@@ -32,7 +32,7 @@ void task1(float num1)
 
 void task2(float num2)
 {
-    cout<<"Введите второе число: ";
+    cout << "Введите второе число: ";
     prov(num2);
 }
 
