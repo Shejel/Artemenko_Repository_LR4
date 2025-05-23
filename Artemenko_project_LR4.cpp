@@ -3,7 +3,10 @@ using namespace std;
 
 float task1()
 {
-    
+    float num1;
+    cout << "Введите первое число: ";
+    cin>>num1;
+    return num1;
 }
 
 float task2()
