@@ -22,7 +22,7 @@ void task3(float num11, float num22)
 
 void task4(float num11, float num22)
 {
-    
+    cout << "Разность равна " << num11 - num22 << endl;
 }
 
 int main()
