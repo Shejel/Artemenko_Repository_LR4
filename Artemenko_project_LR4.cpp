@@ -1,17 +1,15 @@
 #include<iostream>
 using namespace std;
 
-float task1()
-{
-    float num1;
-    cout << "Введите первое число: ";
-    cin>>num1;
-    return num1;
-}
-
-float task2()
+void task1(float num1)
 {
     
+}
+
+void task2(float num2)
+{
+    cout << "Введите второе число: ";
+    prov(num2);
 }
 
 void task3(float num11, float num22)
