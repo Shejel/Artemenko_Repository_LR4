@@ -1,16 +1,6 @@
 #include<iostream>
 using namespace std;
 
-void prov(int& number1)
-{
-	
-}
-
-void prov(float& number1)
-{
-	
-}
-
 void task1(float num1)
 {
     
