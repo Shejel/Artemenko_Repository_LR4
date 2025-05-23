@@ -27,7 +27,7 @@ int main()
     int answer;
     float num1;
     float num2;
-    prov(answer);
+    cin>>answer;
     switch (answer)
     {
         case 1:
@@ -45,4 +45,6 @@ int main()
         default:
             cout<<"Введите корректное число: ";
             main();    
+
+    }
 }
