@@ -3,13 +3,16 @@ using namespace std;
 
 void task1(float num1)
 {
-    
+    float num1;
+    cout << "Введите первое число: ";
+    cin>>num1;
+    return num1;
 }
 
 void task2(float num2)
 {
     cout << "Введите второе число: ";
-    prov(num2);
+    cin>>num2;
 }
 
 void task3(float num11, float num22)
